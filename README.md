@@ -1,2 +1,2 @@
-# KnowIt-Julekalender-2020
-Løsninger til KnowIt sin julekalender 2020
+# Knowit-Julekalender-2020
+Løsninger til Knowit sin julekalender 2020
